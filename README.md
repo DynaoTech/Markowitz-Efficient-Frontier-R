@@ -39,6 +39,9 @@ prices = read_excel("path_to_your_file.xlsx")
 - **Custom portfolio allocation (entered by the user)**
 - **The chart will display risk (standard deviation) on the X-axis and expected return on the Y-axis, with points representing portfolios. The minimum-risk portfolio is highlighted in red, and the user's current allocation can be added to the plot for comparison.**
 
+![Description of Image](Rplot.png)
+
+
 ## Output Example
 - **Optimal Allocations: Displays the asset allocation for the minimum-risk portfolio.**
 - **Future Value: Estimates the future value of a portfolio given a custom allocation over a specified time horizon.**
